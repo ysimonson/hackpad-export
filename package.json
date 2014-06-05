@@ -1,0 +1,15 @@
+{
+  "name": "hackpad-to-markdown",
+  "version": "0.1.0",
+  "dependencies": {
+    "hackpad": "0.0.3",
+    "optimist": "0.6.0"
+  },
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ysimonson/hackpad-export.git"
+  },
+  "author": "Yusuf Simonson <simonson@gmail.com>",
+  "license": "BSD"
+}
